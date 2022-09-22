@@ -1,7 +1,7 @@
   const linksSocialMedia = {
     github: 'brunakarina',
     youtube: 'kabisish',
-    facebook:'brunakarina',
+    facebook:'brubesz',
     instagram: 'brubesz',
     twitter: 'brubesz'
   } 
